@@ -7,7 +7,7 @@
 		,"http://61.153.107.116:8099/default/waiwai/waiwai_serverCfg"
 		,"http://thornbird.com.cn:8099/default/waiwai/waiwai_serverCfg"
 		,"http://boteyongd.top:8099/default/waiwai/waiwai_serverCfg"
-		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/waiwai_serverCfg.json"
+		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/waiwai_serverCfg.json"
 	]
 	
 	,"serverIp":"61.153.107.116:8989"
