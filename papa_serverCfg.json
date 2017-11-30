@@ -1,12 +1,12 @@
 {
 	"serverCfgList":[
 		""
+		,"http://thornbird.com.cn:8099/default/papa/papa_serverCfg.json"
+		,"http://boteyongd.top:8099/default/papa/papa_serverCfg.json"
 		,"http://183.131.213.170:8099/default/papa/papa_serverCfg.json"
 		,"http://59.56.76.19:8099/default/papa/papa_serverCfg.json"
 		,"http://59.56.76.17:8099/default/papa/papa_serverCfg.json"
 		,"http://61.153.107.116:8099/default/papa/papa_serverCfg.json"
-		,"http://thornbird.com.cn:8099/default/papa/papa_serverCfg.json"
-		,"http://boteyongd.top:8099/default/papa/papa_serverCfg.json"
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/papa_serverCfg.json"
 	]
 	
@@ -14,11 +14,11 @@
 	
 	,"SocketG":{
 		"g_update_roleId_list":[2643]
-		,"g_clientFileIp":"http://183.131.213.170:8099"
+		,"g_clientFileIp":"http://thornbird.com.cn:8099"
 	}
 	
 	,"packageUrl":[
-		"http://183.131.213.170:8099/default/papa/Cocos/pokergame_papa/"
+		"http://thornbird.com.cn:8099/default/papa/Cocos/pokergame_papa/remote-assets/"
 	]
 
 	,"evalStr":""
