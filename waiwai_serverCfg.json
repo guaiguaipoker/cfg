@@ -1,12 +1,12 @@
 {
 	"serverCfgList":[
 		""
-		,"http://183.131.213.170:8099/default/waiwai/waiwai_serverCfg"
-		,"http://59.56.76.19:8099/default/waiwai/waiwai_serverCfg"
-		,"http://59.56.76.17:8099/default/waiwai/waiwai_serverCfg"
-		,"http://61.153.107.116:8099/default/waiwai/waiwai_serverCfg"
-		,"http://thornbird.com.cn:8099/default/waiwai/waiwai_serverCfg"
-		,"http://boteyongd.top:8099/default/waiwai/waiwai_serverCfg"
+		,"http://183.131.213.170:8099/default/waiwai/waiwai_serverCfg.json"
+		,"http://59.56.76.19:8099/default/waiwai/waiwai_serverCfg.json"
+		,"http://59.56.76.17:8099/default/waiwai/waiwai_serverCfg.json"
+		,"http://61.153.107.116:8099/default/waiwai/waiwai_serverCfg.json"
+		,"http://thornbird.com.cn:8099/default/waiwai/waiwai_serverCfg.json"
+		,"http://boteyongd.top:8099/default/waiwai/waiwai_serverCfg.json"
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/waiwai_serverCfg.json"
 	]
 	
