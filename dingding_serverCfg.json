@@ -1,0 +1,52 @@
+{
+	"serverCfgList":[
+		""
+		,"http://nanjingyichuang.cn:8099/dingding/dingding/dingding_serverCfg.json"
+		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/dingding_serverCfg.json"
+	]
+	
+	,"serverIp":"59.56.76.70:8989"
+	,"serverIp_list":[
+		"59.56.76.70:8989"
+	]
+	,"serverIp_list1":[
+		"61.153.107.116:8989"
+		,"59.56.76.70:8989"
+	]
+	
+	,"SocketG":{
+		"g_update_imei_roleId_list":{"1111":"2643"}
+		,"g_clientFileIp":"http://nanjingyichuang.cn:8099"
+		,"g_dailiIp":"http://nanjingyichuang.cn:8888"
+		,"g_yaoqingIp":"http://www.nanjingyichuang.cn/"
+		,"g_str_wx_state":"none"
+		,"g_data_flag_login_showLoginLayer":false
+		,"g_data_flag_login_wx_only":true
+		,"g_data_wzq_xuefei_min":500
+		,"g_data_icon_list":10
+		,"g_pipei":{"1":{"time":5,"mutl":1000}}
+		,"g_game_pipei_close":{"1":false}
+		,"g_game_pipei_close_room":{"1":{"3":true}}
+		,"g_update_each_url_time":5000
+		,"g_update_flag_fail_force":true
+		,"g_update_ver_fail_force":"2.2"
+		,"g_game_nn_qz_bei":2
+		,"g_game_nn_xz_bei":4
+		,"g_yuyin_open":false
+		,"g_room_num_cfg_flag":true
+		,"g_room_num_all_real":false
+		,"g_room_num_0_real":true
+		,"g_room_num_0_str":false
+		,"g_game_6_capture_share":true
+		,"g_game_5_xuefei":true
+		,"g_zhanji_no_local_flag":true
+	}
+	
+	,"packageUrl":[
+		"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+		,"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+		,"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+	]
+
+	,"evalStr":""
+}
