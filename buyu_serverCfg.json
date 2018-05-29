@@ -5,7 +5,7 @@
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/buyu_serverCfg.json"
 	]
 	
-	,"serverIp":"192.168.0.100:7989"
+	,"serverIp":"118.193.163.156:7989"
 	
 	,"SocketG":{
 		"g_update_imei_roleId_list":{"1111":"2643"}
