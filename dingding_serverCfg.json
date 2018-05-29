@@ -1,7 +1,7 @@
 {
 	"serverCfgList":[
 		""
-		,"http://nanjingyichuang.cn:8099/dingding/dingding/dingding_serverCfg.json"
+		,"http://www.nanjingyichuang.cn:8099/dingding/dingding/dingding_serverCfg.json"
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/dingding_serverCfg.json"
 	]
 	
@@ -16,8 +16,8 @@
 	
 	,"SocketG":{
 		"g_update_imei_roleId_list":{"1111":"2643"}
-		,"g_clientFileIp":"http://nanjingyichuang.cn:8099"
-		,"g_dailiIp":"http://nanjingyichuang.cn:8888"
+		,"g_clientFileIp":"http://www.nanjingyichuang.cn:8099"
+		,"g_dailiIp":"http://www.nanjingyichuang.cn:8888"
 		,"g_yaoqingIp":"http://www.nanjingyichuang.cn/"
 		,"g_str_wx_state":"none"
 		,"g_data_flag_login_showLoginLayer":false
@@ -43,9 +43,9 @@
 	}
 	
 	,"packageUrl":[
-		"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
-		,"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
-		,"http://nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+		"http://www.nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+		,"http://www.nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
+		,"http://www.nanjingyichuang.cn:8099/dingding/dingding/Cocos/pokergame_dingding/remote-assets2/"
 	]
 
 	,"evalStr":""
