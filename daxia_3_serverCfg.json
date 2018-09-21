@@ -1,18 +1,18 @@
 {
 	"serverCfgList":[
 		""
-		,"http://zzmdx.denes.top:8099/daxia/daxia/daxia_3_serverCfg.json"
+		,"http://zzmdx.bingzhu000.cn:8099/daxia/daxia/daxia_3_serverCfg.json"
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia_3_serverCfg.json"
 	]
 	
-	,"serverIp":"zzmdx.denes.top:7989"
+	,"serverIp":"zzmdx.bingzhu000.cn:8989"
 	
 	,"SocketG":{
 		"g_update_imei_roleId_list":{"1111":"2643"}
-		,"g_clientFileIp":"http://zzmdx.denes.top:8099"
-		,"g_data_ip":"http://zzmdx.denes.top:7989"
-		,"g_dailiIp":"http://zzmdx.denes.top:7888"
-		,"g_yaoqingIp":"http://zzmdx.denes.top/"
+		,"g_clientFileIp":"http://zzmdx.bingzhu000.cn:8099"
+		,"g_data_ip":"http://zzmdx.bingzhu000.cn:8989"
+		,"g_dailiIp":"http://zzmdx.bingzhu000.cn:7888"
+		,"g_yaoqingIp":"http://zzmdx.bingzhu000.cn/"
 		,"g_str_wx_state":"none"
 		,"g_data_flag_login_showLoginLayer":false
 		,"g_data_flag_login_wx_only":true
@@ -22,6 +22,7 @@
 	}
 	
 	,"packageUrl":[
+		"http://zzmdx.bingzhu000.cn:8099/daxia/daxia/Cocos/pokergame_daxia/remote-assets3/"
 	]
 
 	,"evalStr":""
