@@ -5,7 +5,7 @@
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia_deploy_serverCfg.json"
 	]
 	
-	,"serverIp":"zzmdx.bingzhu000.cn:8989"
+	,"serverIp":"deploy.hmp5.com:8989"
 	
 	,"SocketG":{
 		"g_update_imei_roleId_list":{"1111":"2643"}
