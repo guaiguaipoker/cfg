@@ -1,7 +1,6 @@
 {
 	"serverCfgList":[
-		""
-		,"http://139.199.67.14:8099/daxia/daxia/daxia_3_serverCfg.json"
+		"http://139.199.67.14:8099/daxia/daxia/daxia_3_serverCfg.json"
 		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia_3_serverCfg.json"
 	]
 	
@@ -26,4 +25,6 @@
 	]
 
 	,"evalStr":""
+
+	,"resVer":"1.0"
 }
