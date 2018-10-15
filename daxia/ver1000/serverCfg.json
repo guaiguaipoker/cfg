@@ -1,7 +1,7 @@
 {
 	"serverCfgList":[
 		"http://59.56.76.64:8099/daxia/hotupdate/ver1000/serverCfg.json"
-		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia_3_serverCfg.json"
+		,"https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia/ver1000/serverCfg.json"
 	]
 	
 	,"serverIp":"59.56.76.64:8989"
