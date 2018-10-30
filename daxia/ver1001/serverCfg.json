@@ -1,0 +1,26 @@
+{
+    "serverCfgList": [
+        "http://59.56.76.64:8099/daxia/hotupdate/ver1001/serverCfg.json",
+        "https://raw.githubusercontent.com/guaiguaipoker/cfg/master/daxia/ver1001/serverCfg.json"
+    ],
+    "serverIp": "59.56.76.64:8989",
+    "SocketG": {
+        "g_update_imei_roleId_list": {
+            "1111": "2643"
+        },
+        "g_clientFileIp": "http://59.56.76.64:8099",
+        "g_data_ip": "http://59.56.76.64:8989",
+        "g_dailiIp": "http://59.56.76.64:7888",
+        "g_yaoqingIp": "http://59.56.76.64/",
+        "g_str_wx_state": "none",
+        "g_data_flag_login_showLoginLayer": false,
+        "g_data_flag_login_wx_only": true,
+        "g_update_each_url_time": 5000,
+        "g_update_ver_fail_force": "1.0"
+    },
+    "packageUrl": [
+        "http://59.56.76.64:8099/daxia/hotupdate/ver1001/remote-assets/"
+    ],
+    "evalStr": "",
+    "resVer": "1.0"
+}
